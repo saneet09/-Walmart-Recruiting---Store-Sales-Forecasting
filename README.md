@@ -10,3 +10,5 @@ Want to work in a great environment with some of the world's largest data sets? 
 This competition counts towards rankings & achievements.  If you wish to be considered for an interview at Walmart, check the box "Allow host to contact me" when you make your first entry. 
 
 You must compete as an individual in recruiting competitions. You may only use the provided data to make your predictions.
+
+kaggle.com/c/walmart-recruiting-store-sales-forecasting
