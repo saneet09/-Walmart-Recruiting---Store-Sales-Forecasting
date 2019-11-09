@@ -11,4 +11,5 @@ This competition counts towards rankings & achievements.  If you wish to be cons
 
 You must compete as an individual in recruiting competitions. You may only use the provided data to make your predictions.
 
-kaggle.com/c/walmart-recruiting-store-sales-forecasting
+[Link to the daaset](kaggle.com/c/walmart-recruiting-store-sales-forecasting")
+
